@@ -1,0 +1,31 @@
+{
+  "name": "Qubit — El capibara que enseña",
+  "short_name": "Qubit",
+  "description": "Matemáticas con el Método Singapur. Iniciativa gratuita de MGI Worldwide y POE Consultores.",
+  "lang": "es",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0B1026",
+  "theme_color": "#081737",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
